@@ -4,7 +4,7 @@ It is a bare metal OS should be made By implementing the command line interprete
 
 ## How to start
 
-open the terminal and cd to MyOS directory and type ```make```. it will directly open the emulator.
+open the terminal and cd to MyOS directory and type ```make```. It will directly open the emulator.
 
 <img src="https://github.com/jjheon0614/MyOS/blob/main/MyOS_Image.png" alt="image" width="600" height="400">
 
